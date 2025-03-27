@@ -3,6 +3,10 @@
 ## Overview
 This project is a React-based AI agent utilizing Groq for retrieving and analyzing planetary data. Inspired by the tutorial [here](https://www.youtube.com/watch?v=hKVhRA9kfeM&t=1506s), the agent is designed to fetch planetary information and perform basic analysis.
 
+## Result
+![image](https://github.com/user-attachments/assets/7b3ba635-bb24-4529-aae5-fec2215f0e74)
+![image](https://github.com/user-attachments/assets/c4c5196f-dea5-4507-be4c-42d98f9f916d)
+
 ## Features
 - Retrieves planetary data from an API
 - Provides simple analysis of planets (e.g., size, distance from the sun, habitability potential)
